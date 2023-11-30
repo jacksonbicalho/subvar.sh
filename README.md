@@ -1,0 +1,1 @@
+# `subvar.sh` - shell script para alterar valores de variáveis em arquivos usando sed por baixo
